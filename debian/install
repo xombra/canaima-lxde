@@ -1,0 +1,10 @@
+gpicview.conf /etc/xdg/gpicview/
+launchtaskbar.cfg /etc/xdg/lxpanel/
+panel /etc/xdg/lxpanel/LXDE/panels
+config /etc/xdg/profile/LXDE/
+wadameka.png /usr/share/images/desktop-base/
+LXDE.conf /usr/share/lxde/pcmanfm/
+canaima_lxde_1600x1200.jpg /usr/share/lxde/wallpapers/
+background.png /usr/share/lxpanel/images/
+uca.xml /etc/xdg/Thunar/
+autostart /etc/xdg/lxsession/LXDE/

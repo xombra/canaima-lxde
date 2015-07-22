@@ -1,0 +1,19 @@
+Source: canaima-lxde
+Section: metapackages
+Priority: optional
+Maintainer: Hector A. Mantellini <xombra.com@gmail.com>
+Build-Depends: debhelper, cdbs
+Standards-Version: 3.9.5
+Homepage: https://github.com/xombra/canaima-lxde
+
+Package: xanadu-cinnamon
+Architecture: all
+Maintainer: Hector A. Mantellini <xombra.com@gmail.com>
+Depends: desktop-base, clipit, evince, fontconfig, fonts-dejavu, fonts-droid, fonts-freefont-ttf, fonts-lyx, fonts-opensymbol, gpicview, idesk, lxde-common, lxlauncher, lxmusic, lxpanel, lxpolkit, libfm-tools, lxshortcut, lxtask, menu, menu-l10n, menu-xdg, myspell-es, obconf, openbox, openbox-menu, oxygen-icon-theme, pcmanfm, task-lxde-desktop, task-spanish, tint2, thunar-data, thunar-archive-plugin, update-notifier, xcompmgr, xdotool
+
+Description: 
+ Canaima-lxde is a desktop base (http://lxde.org/)  
+ It is an environment of extremely lightweight and fast desktop, 
+ optimal performance and power savings, giving the user a unique 
+ experience in your computer equipment, This package has optimal 
+ settings for Canaima GNU / Linux.
